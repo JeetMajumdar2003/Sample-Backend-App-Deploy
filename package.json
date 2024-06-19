@@ -1,0 +1,20 @@
+{
+  "name": "01-deploy-backend-app",
+  "version": "1.0.0",
+  "description": "A basic Backend App to Deploy on the cloud.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "backend"
+  ],
+  "author": "Jeet Majumdar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
