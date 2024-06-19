@@ -1,4 +1,4 @@
-## It's a simple fun backend app using Node.js and Express.js. Which lets you go to different routes and GET the data from the server. It also fetches data from different APIs like TheCatAPI, TheDogAPI, and more. It also fetches data from GitHub API and returns the user's profile and avatar image. It also returns random jokes, facts, quotes, weather, memes, advice, and activities. It also has error handling routes to simulate internal server errors.
+### It's a simple fun backend app using Node.js and Express.js. Which lets you go to different routes and GET the data from the server. It also fetches data from different APIs like TheCatAPI, TheDogAPI, and more. It also fetches data from GitHub API and returns the user's profile and avatar image. It also returns random jokes, facts, quotes, weather, memes, advice, and activities. It also has error handling routes to simulate internal server errors.
 
 ### Here are the available routes:
 - GET `/` - Returns a simple string "Hello World!"
